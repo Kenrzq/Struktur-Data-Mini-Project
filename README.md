@@ -29,10 +29,10 @@ Remove a song from playlist
 EXIT :
 Terminate the program
 
-### Example
+## Example
 
-## Input:
+#### Input:
 ["ADD A","ADD B","ADD C","QUEUE D","LIST","NEXT","NEXT","BACK","REMOVE B","LIST","EXIT"]
 
-## Output:
+#### Output:
 [null,null,null,null,"A, D, B, C","D","B","A",null,"A, C"]
